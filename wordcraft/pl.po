@@ -103,6 +103,11 @@ msgstr "<< Mniej"
 msgid "<< Remove"
 msgstr "<< Usuń"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "diagram może zawierać najwyżej {MAX_ITEMS} elementów"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "kanwy rysunku nie można rozgrupować"
 
@@ -126,6 +131,9 @@ msgstr "Sekwencja numerowana (rysunki, tabele…)"
 
 msgid "A password is required to open this document."
 msgstr "Do otwarcia tego dokumentu potrzebne jest hasło."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "Spis treści"
@@ -516,6 +524,9 @@ msgstr "Każdy, kto otworzy dokument, będzie potrzebować tego hasła."
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Stosuj podczas pisania"
@@ -1833,6 +1844,12 @@ msgstr "Dziesiętny"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Obiekty dekoracyjne służą tylko ozdobie: czytniki ekranu je pomijają."
 
+msgid "Decorative Text"
+msgstr "Tekst ozdobny"
+
+msgid "Decorative Text Styles"
+msgstr "Style tekstu ozdobnego"
+
 msgid "Decrease Indent"
 msgstr "Zmniejsz wcięcie"
 
@@ -1956,6 +1973,15 @@ msgstr "wersja rozwojowa"
 msgid "Diagonal Dots"
 msgstr "Kropki ukośne"
 
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Projektowanie diagramu"
+
+msgid "Diagram Styles"
+msgstr "Style diagramu"
+
 msgid "Dictate"
 msgstr "Dyktuj"
 
@@ -2006,6 +2032,9 @@ msgstr "Społeczność na Discordzie"
 
 msgid "Display for Review"
 msgstr "Wyświetlanie do recenzji"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Tekst do wyświetlenia"
@@ -2339,6 +2368,9 @@ msgstr "Łącznik łamany"
 
 msgid "Emphasis"
 msgstr "Wyróżnienie"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Puste macierze"
@@ -2693,6 +2725,9 @@ msgstr "Ustal położenie na stronie"
 
 msgid "Fixed Column Width"
 msgstr "Stała szerokość kolumn"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr "Odłącz"
@@ -3214,6 +3249,9 @@ msgstr "Jeżeli…To…W przeciwnym razie"
 msgid "If…Then…Else…"
 msgstr "Jeżeli…To…W przeciwnym razie…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Ignoruj znaki interpunkcyjne"
 
@@ -3369,6 +3407,9 @@ msgstr "Wstaw kolumny z prawej"
 
 msgid "Insert Date Field"
 msgstr "Wstaw pole daty"
+
+msgid "Insert Diagram"
+msgstr "Wstaw diagram"
 
 msgid "Insert Endnote"
 msgstr "Wstaw przypis końcowy"
@@ -3550,6 +3591,9 @@ msgstr "Iloczyn zbiorów z dolną granicą"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Iloczyn zbiorów z granicami w indeksach"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Funkcja arcus cosecans"
 
@@ -3624,6 +3668,9 @@ msgstr "Wygląda na to, że piszesz list. Może kopertę do niego albo szablon l
 
 msgid "Italy"
 msgstr "Włochy"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Nie udało się odczytać jego słownika: {reason}"
@@ -3701,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4057,9 @@ msgstr "Łącza i odwołania"
 msgid "Link…"
 msgstr "Link…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Definicja listy"
 
@@ -4252,6 +4305,9 @@ msgstr "Marginesy lustrzane"
 
 msgid "Mirrored"
 msgstr "Lustrzane"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT lub Apache-2.0. Copyright (c) 2026 ArtCraft Team i współtwórcy WordCraft."
@@ -4898,6 +4954,9 @@ msgstr "Otwórz plik we własnej przeglądarce plików programu WordCraft, gdy s
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "Tekst OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Otwieranie okna drukowania…"
@@ -6066,6 +6125,9 @@ msgstr "najpierw zaznacz wykres"
 msgid "select a connector first"
 msgstr "najpierw zaznacz łącznik"
 
+msgid "select a diagram first"
+msgstr "najpierw zaznacz diagram"
+
 msgid "select a drawing canvas first"
 msgstr "najpierw zaznacz kanwę rysunku"
 
@@ -6099,6 +6161,9 @@ msgstr ""
 msgid "select a shape first"
 msgstr "najpierw zaznacz kształt"
 
+msgid "select a shape or decorative text first"
+msgstr "najpierw zaznacz kształt lub tekst ozdobny"
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Zaznacz kształt, pole tekstowe lub kanwę rysunku, aby sformatować wypełnienie."
 
@@ -6110,6 +6175,9 @@ msgstr "najpierw zaznacz pole tekstowe"
 
 msgid "select a text box linked to another first"
 msgstr "najpierw zaznacz pole tekstowe połączone z innym"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "Zaznacz komórkę"
@@ -6267,6 +6335,9 @@ msgstr "Ustaw formatowanie akapitu"
 msgid "Set Proofing Language…"
 msgstr "Ustaw język sprawdzania…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Ustawienie:"
 
@@ -6275,6 +6346,9 @@ msgstr "Cieniowanie"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Cień, poświata i zmiękczone krawędzie"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Wypełnienie kształtu"
@@ -6437,6 +6511,9 @@ msgstr "Pokaż\nkomentarze"
 
 msgid "Showing the first {count} items."
 msgstr "Pokazano pierwsze elementy: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Pokazuje drzewo: każdy element pod elementem, do którego należy."
@@ -6767,6 +6844,12 @@ msgstr "Województwo/stan"
 
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
 
 msgid "Still there? I can hear you thinking."
 msgstr "Jesteś tam jeszcze? Słyszę, jak myślisz."
@@ -7291,6 +7374,12 @@ msgstr "Tej operacji nie można cofnąć. Oryginalny plik pozostaje bez zmian."
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "ten wykres został utworzony w innym programie: WordCraft go wyświetla, ale nie może go edytować"
 
+msgid "this diagram can't be edited"
+msgstr "tego diagramu nie można edytować"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "ten diagram utworzono w innym programie: WordCraft go wyświetla, ale nie może go edytować"
+
 msgid "This document"
 msgstr "Ten dokument"
 
@@ -7625,6 +7714,11 @@ msgstr "Wielka Brytania"
 msgid "United States"
 msgstr "Stany Zjednoczone"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "nieznany styl tekstu ozdobnego `{id}`"
+
 msgid "Unlink Fields"
 msgstr "Odłącz pola"
 
@@ -7943,6 +8037,9 @@ msgstr "Rok"
 msgid "Yields"
 msgstr "Daje w wyniku"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Od dawna nic nie zapisano, a Autozapis jest wyłączony. Zapisać teraz?"
 
@@ -7998,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Adresaci do scalenia: {count} z {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

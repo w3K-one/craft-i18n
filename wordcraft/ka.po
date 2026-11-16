@@ -103,6 +103,11 @@ msgstr "<< ნაკლები"
 msgid "<< Remove"
 msgstr "<< წაშლა"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr ""
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "სახატავი ტილოს დაჯგუფების მოხსნა შეუძლებელია"
 
@@ -126,6 +131,9 @@ msgstr "დანომრილი თანმიმდევრობა (ი
 
 msgid "A password is required to open this document."
 msgstr "ამ დოკუმენტის გასახსნელად საჭიროა პაროლი."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "სარჩევი"
@@ -516,6 +524,9 @@ msgstr "დოკუმენტის გამხსნელ ყველა�
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "ავტომატურად აკრეფისას"
@@ -1833,6 +1844,12 @@ msgstr "ათწილადის მძიმეზე"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "დეკორატიული ობიექტები მხოლოდ ვიზუალურ ინტერესს მატებს: ეკრანის წამკითხველები მათ გამოტოვებს."
 
+msgid "Decorative Text"
+msgstr ""
+
+msgid "Decorative Text Styles"
+msgstr ""
+
 msgid "Decrease Indent"
 msgstr "შეწევის შემცირება"
 
@@ -1956,6 +1973,15 @@ msgstr "დეველოპერული ვერსია"
 msgid "Diagonal Dots"
 msgstr "დიაგონალური წერტილები"
 
+msgid "Diagram"
+msgstr ""
+
+msgid "Diagram Design"
+msgstr ""
+
+msgid "Diagram Styles"
+msgstr ""
+
 msgid "Dictate"
 msgstr "კარნახი"
 
@@ -2006,6 +2032,9 @@ msgstr "Discord საზოგადოება"
 
 msgid "Display for Review"
 msgstr "ჩვენება განხილვისთვის"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "საჩვენებელი ტექსტი"
@@ -2339,6 +2368,9 @@ msgstr "მუხლისებრი შემაერთებელი"
 
 msgid "Emphasis"
 msgstr "აქცენტირება"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "ცარიელი მატრიცები"
@@ -2693,6 +2725,9 @@ msgstr "პოზიციის გვერდზე დაფიქსირ�
 
 msgid "Fixed Column Width"
 msgstr "სვეტის ფიქსირებული სიგანე"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr "მცურავი"
@@ -3214,6 +3249,9 @@ msgstr "თუ…მაშინ…სხვა შემთხვევაშ�
 msgid "If…Then…Else…"
 msgstr "თუ…მაშინ…სხვა შემთხვევაში…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "პუნქტუაციის ნიშნების გამოტოვება"
 
@@ -3369,6 +3407,9 @@ msgstr "სვეტების მარჯვნივ ჩასმა"
 
 msgid "Insert Date Field"
 msgstr "თარიღის ველის ჩასმა"
+
+msgid "Insert Diagram"
+msgstr ""
 
 msgid "Insert Endnote"
 msgstr "დოკუმენტის სქოლიოს ჩასმა"
@@ -3550,6 +3591,9 @@ msgstr "გადაკვეთა ქვედა საზღვრით"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "გადაკვეთა ინდექსური ზღვრებით"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "შებრუნებული კოსეკანსის ფუნქცია"
 
@@ -3624,6 +3668,9 @@ msgstr "როგორც ჩანს, წერილს წერთ. მო
 
 msgid "Italy"
 msgstr "იტალია"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "მისი ლექსიკონის წაკითხვა ვერ მოხერხდა: {reason}"
@@ -3701,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4057,9 @@ msgstr "ბმულები და მითითებები"
 msgid "Link…"
 msgstr "ბმული…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "სიის განსაზღვრება"
 
@@ -4252,6 +4305,9 @@ msgstr "სარკისებური ველები"
 
 msgid "Mirrored"
 msgstr "სარკისებური"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. საავტორო უფლება (c) 2026 ArtCraft Team და WordCraft-ის მონაწილეები."
@@ -4898,6 +4954,9 @@ msgstr "ფაილის გახსნა WordCraft-ის საკუთ�
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument ტექსტი (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "ბეჭდვის ფანჯარა იხსნება…"
@@ -6066,6 +6125,9 @@ msgstr "ჯერ მონიშნეთ დიაგრამა"
 msgid "select a connector first"
 msgstr "ჯერ მონიშნეთ შემაერთებელი"
 
+msgid "select a diagram first"
+msgstr ""
+
 msgid "select a drawing canvas first"
 msgstr "ჯერ მონიშნეთ სახატავი ტილო"
 
@@ -6099,6 +6161,9 @@ msgstr ""
 msgid "select a shape first"
 msgstr "ჯერ მონიშნეთ ფიგურა"
 
+msgid "select a shape or decorative text first"
+msgstr ""
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "შევსების ფორმატირებისთვის მონიშნეთ ფიგურა, ტექსტური ბლოკი ან სახატავი ტილო."
 
@@ -6110,6 +6175,9 @@ msgstr "ჯერ მონიშნეთ ტექსტური ბლოკ
 
 msgid "select a text box linked to another first"
 msgstr "ჯერ მონიშნეთ სხვა ბლოკთან დაკავშირებული ტექსტური ბლოკი"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "უჯრის მონიშვნა"
@@ -6267,6 +6335,9 @@ msgstr "აბზაცის ფორმატირების დაყე�
 msgid "Set Proofing Language…"
 msgstr "კორექტურის ენის არჩევა…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "პარამეტრი:"
 
@@ -6275,6 +6346,9 @@ msgstr "ფონი"
 
 msgid "Shadow, glow and soft edges"
 msgstr "ჩრდილი, ნათება და რბილი კიდეები"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "ფიგურის შევსება"
@@ -6437,6 +6511,9 @@ msgstr "კომენტარების\nჩვენება"
 
 msgid "Showing the first {count} items."
 msgstr "ნაჩვენებია პირველი ელემენტები: {count}."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "ხის ჩვენება: თითოეული ელემენტი იმ ელემენტის ქვემოთაა, რომელსაც ეკუთვნის."
@@ -6767,6 +6844,12 @@ msgstr "შტატი"
 
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5,50\" × 8,50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
 
 msgid "Still there? I can hear you thinking."
 msgstr "ჯერ ისევ აქ ხართ? მესმის, როგორ ფიქრობთ."
@@ -7291,6 +7374,12 @@ msgstr "ამის დაბრუნება შეუძლებელი�
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "ეს დიაგრამა სხვა პროგრამაშია შექმნილი: WordCraft მას აჩვენებს, მაგრამ ვერ არედაქტირებს"
 
+msgid "this diagram can't be edited"
+msgstr ""
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr ""
+
 msgid "This document"
 msgstr "ეს დოკუმენტი"
 
@@ -7625,6 +7714,11 @@ msgstr "გაერთიანებული სამეფო"
 msgid "United States"
 msgstr "ამერიკის შეერთებული შტატები"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr ""
+
 msgid "Unlink Fields"
 msgstr "ველების გათიშვა"
 
@@ -7943,6 +8037,9 @@ msgstr "წელი"
 msgid "Yields"
 msgstr "იძლევა"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "დიდი ხანია არ შეგინახავთ, ავტოშენახვა კი გამორთულია. შევინახო ახლა?"
 
@@ -7998,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "შეირწყმება მიმღები: {count} / {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

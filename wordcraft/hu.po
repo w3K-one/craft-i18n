@@ -103,6 +103,11 @@ msgstr "<< Kevesebb"
 msgid "<< Remove"
 msgstr "<< Eltávolítás"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "egy diagram legfeljebb {MAX_ITEMS} elemet tartalmazhat"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "a rajzvászon csoportbontása nem lehetséges"
 
@@ -126,6 +131,9 @@ msgstr "Számozott sorozat (ábrák, táblázatok…)"
 
 msgid "A password is required to open this document."
 msgstr "A dokumentum megnyitásához jelszó kell."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "Tartalomjegyzék"
@@ -516,6 +524,9 @@ msgstr "Aki megnyitja a dokumentumot, annak szüksége lesz erre a jelszóra."
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Alkalmazás gépelés közben"
@@ -1833,6 +1844,12 @@ msgstr "Decimális"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "A díszítőelemek csak a látványt szolgálják, a képernyőolvasók kihagyják őket."
 
+msgid "Decorative Text"
+msgstr "Díszítő szöveg"
+
+msgid "Decorative Text Styles"
+msgstr "Díszítő szöveg stílusai"
+
 msgid "Decrease Indent"
 msgstr "Behúzás csökkentése"
 
@@ -1956,6 +1973,15 @@ msgstr "fejlesztői kiadás"
 msgid "Diagonal Dots"
 msgstr "Átlós pontok"
 
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Diagramtervezés"
+
+msgid "Diagram Styles"
+msgstr "Diagramstílusok"
+
 msgid "Dictate"
 msgstr "Diktálás"
 
@@ -2006,6 +2032,9 @@ msgstr "Discord-közösség"
 
 msgid "Display for Review"
 msgstr "Megjelenítés véleményezéshez"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Megjelenített szöveg"
@@ -2339,6 +2368,9 @@ msgstr "Derékszögű összekötő"
 
 msgid "Emphasis"
 msgstr "Hangsúlyos"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Üres mátrixok"
@@ -2693,6 +2725,9 @@ msgstr "Rögzített hely az oldalon"
 
 msgid "Fixed Column Width"
 msgstr "Rögzített oszlopszélesség"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3214,6 +3249,9 @@ msgstr "Ha…Akkor…Különben"
 msgid "If…Then…Else…"
 msgstr "Ha…Akkor…Különben…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Írásjelek figyelmen kívül hagyása"
 
@@ -3369,6 +3407,9 @@ msgstr "Oszlopok beszúrása jobbra"
 
 msgid "Insert Date Field"
 msgstr "Dátummező beszúrása"
+
+msgid "Insert Diagram"
+msgstr "Diagram beszúrása"
 
 msgid "Insert Endnote"
 msgstr "Végjegyzet beszúrása"
@@ -3550,6 +3591,9 @@ msgstr "Metszet alsó határral"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Metszet indexben írt határokkal"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Arkusz koszekánsfüggvény"
 
@@ -3624,6 +3668,9 @@ msgstr "Úgy tűnik, levelet írsz. Kérsz hozzá borítékot, vagy egy levélsa
 
 msgid "Italy"
 msgstr "Olaszország"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "A szótárát nem sikerült beolvasni: {reason}"
@@ -3701,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4057,9 @@ msgstr "Linkek és hivatkozások"
 msgid "Link…"
 msgstr "Link…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Listadefiníció"
 
@@ -4252,6 +4305,9 @@ msgstr "Tükrözött margók"
 
 msgid "Mirrored"
 msgstr "Tükrözött"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT vagy Apache-2.0. Copyright (c) 2026 ArtCraft Team és a WordCraft közreműködői."
@@ -4898,6 +4954,9 @@ msgstr "Fájl megnyitása a WordCraft saját tallózójával, ha a rendszer fáj
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "OpenDocument szöveg (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Nyomtatási párbeszédablak megnyitása…"
@@ -6066,6 +6125,9 @@ msgstr "előbb jelöljön ki egy diagramot"
 msgid "select a connector first"
 msgstr "előbb jelöljön ki egy összekötőt"
 
+msgid "select a diagram first"
+msgstr "először jelöljön ki egy diagramot"
+
 msgid "select a drawing canvas first"
 msgstr "előbb jelöljön ki egy rajzvásznat"
 
@@ -6099,6 +6161,9 @@ msgstr ""
 msgid "select a shape first"
 msgstr "előbb jelöljön ki egy alakzatot"
 
+msgid "select a shape or decorative text first"
+msgstr "először jelöljön ki egy alakzatot vagy díszítő szöveget"
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Jelöljön ki egy alakzatot, szövegdobozt vagy rajzvásznat a kitöltés formázásához."
 
@@ -6110,6 +6175,9 @@ msgstr "előbb jelöljön ki egy szövegdobozt"
 
 msgid "select a text box linked to another first"
 msgstr "előbb jelöljön ki egy másikhoz csatolt szövegdobozt"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "Cella kijelölése"
@@ -6267,6 +6335,9 @@ msgstr "Bekezdésformázás beállítása"
 msgid "Set Proofing Language…"
 msgstr "Nyelvi ellenőrzés nyelvének beállítása…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Beállítás:"
 
@@ -6275,6 +6346,9 @@ msgstr "Árnyékolás"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Árnyék, ragyogás és lágy szélek"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Alakzat kitöltése"
@@ -6437,6 +6511,9 @@ msgstr "Megjegyzések\nmegjelenítése"
 
 msgid "Showing the first {count} items."
 msgstr "Az első {count} elem látható."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Faszerkezet: minden elem az alatt az elem alatt áll, amelyikhez tartozik."
@@ -6766,6 +6843,12 @@ msgid "State"
 msgstr "Megye vagy állam"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7291,6 +7374,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "ez a diagram egy másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni"
 
+msgid "this diagram can't be edited"
+msgstr "ez a diagram nem szerkeszthető"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "ez a diagram másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni"
+
 msgid "This document"
 msgstr "Ez a dokumentum"
 
@@ -7625,6 +7714,11 @@ msgstr "Egyesült Királyság"
 msgid "United States"
 msgstr "Amerikai Egyesült Államok"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "ismeretlen díszítő szövegstílus: `{id}`"
+
 msgid "Unlink Fields"
 msgstr "Mezők leválasztása"
 
@@ -7943,6 +8037,9 @@ msgstr "Év"
 msgid "Yields"
 msgstr "Eredményez"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Egy ideje nem mentettél, és az Automatikus mentés ki van kapcsolva. Mentsünk most?"
 
@@ -7998,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "{total} címzettből {count} kerül egyesítésre."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

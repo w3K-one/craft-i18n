@@ -103,6 +103,11 @@ msgstr "<< أقل"
 msgid "<< Remove"
 msgstr "<< إزالة"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "يحتوي الرسم التخطيطي على {MAX_ITEMS} عنصرًا كحد أقصى"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "لا يمكن فك تجميع لوحة الرسم"
 
@@ -126,6 +131,9 @@ msgstr "تسلسل مرقّم (أشكال، جداول…)"
 
 msgid "A password is required to open this document."
 msgstr "يلزم إدخال كلمة مرور لفتح هذا المستند."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "جدول محتويات"
@@ -516,6 +524,9 @@ msgstr "كل من يفتح المستند سيحتاج إلى كلمة المر�
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "التطبيق أثناء الكتابة"
@@ -1833,6 +1844,12 @@ msgstr "عشري"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "الكائنات الزخرفية للزينة فقط: تتخطاها قارئات الشاشة."
 
+msgid "Decorative Text"
+msgstr "نص مزخرف"
+
+msgid "Decorative Text Styles"
+msgstr "أنماط النص المزخرف"
+
 msgid "Decrease Indent"
 msgstr "إنقاص المسافة البادئة"
 
@@ -1956,6 +1973,15 @@ msgstr "نسخة تطوير"
 msgid "Diagonal Dots"
 msgstr "نقاط قطرية"
 
+msgid "Diagram"
+msgstr "رسم تخطيطي"
+
+msgid "Diagram Design"
+msgstr "تصميم الرسم التخطيطي"
+
+msgid "Diagram Styles"
+msgstr "أنماط الرسم التخطيطي"
+
 msgid "Dictate"
 msgstr "إملاء صوتي"
 
@@ -2006,6 +2032,9 @@ msgstr "مجتمع Discord"
 
 msgid "Display for Review"
 msgstr "العرض للمراجعة"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "النص المعروض"
@@ -2339,6 +2368,9 @@ msgstr "موصل بزاوية"
 
 msgid "Emphasis"
 msgstr "توكيد"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "المصفوفات الفارغة"
@@ -2693,6 +2725,9 @@ msgstr "تثبيت الموضع في الصفحة"
 
 msgid "Fixed Column Width"
 msgstr "عرض عمود ثابت"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr "عائم"
@@ -3214,6 +3249,9 @@ msgstr "إذا…إذن…وإلا"
 msgid "If…Then…Else…"
 msgstr "إذا…إذن…وإلا…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "تجاهل علامات الترقيم"
 
@@ -3369,6 +3407,9 @@ msgstr "إدراج أعمدة إلى اليمين"
 
 msgid "Insert Date Field"
 msgstr "إدراج حقل التاريخ"
+
+msgid "Insert Diagram"
+msgstr "إدراج رسم تخطيطي"
 
 msgid "Insert Endnote"
 msgstr "إدراج حاشية ختامية"
@@ -3550,6 +3591,9 @@ msgstr "تقاطع بحد سفلي"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "تقاطع بحدود سفلية وعلوية"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "دالة قاطع التمام العكسية"
 
@@ -3624,6 +3668,9 @@ msgstr "يبدو أنك تكتب رسالة. أتريد ظرفًا لها، أم
 
 msgid "Italy"
 msgstr "إيطاليا"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "تعذّرت قراءة قاموسها: {reason}"
@@ -3702,6 +3749,9 @@ msgstr "بيانات اللغة"
 
 msgid "Language Packs"
 msgstr "حزم اللغات"
+
+msgid "Language packs aren't available in the browser"
+msgstr ""
 
 msgid "Language packs aren't available in the browser."
 msgstr ""
@@ -4007,6 +4057,9 @@ msgstr "الارتباطات والمراجع"
 msgid "Link…"
 msgstr "ارتباط…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "تعريف القائمة"
 
@@ -4252,6 +4305,9 @@ msgstr "هوامش معكوسة"
 
 msgid "Mirrored"
 msgstr "معكوس"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. حقوق النشر (c) 2026 فريق ArtCraft والمساهمون في WordCraft."
@@ -4898,6 +4954,9 @@ msgstr "فتح ملف بمستعرض WordCraft الخاص عندما لا يظه
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "نص OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "جارٍ فتح مربع حوار الطباعة…"
@@ -6066,6 +6125,9 @@ msgstr "حدد مخططًا أولًا"
 msgid "select a connector first"
 msgstr "حدد موصلًا أولًا"
 
+msgid "select a diagram first"
+msgstr "حدد رسمًا تخطيطيًا أولًا"
+
 msgid "select a drawing canvas first"
 msgstr "حدد لوحة رسم أولًا"
 
@@ -6099,6 +6161,9 @@ msgstr "حدّد خاصية لتغييرها."
 msgid "select a shape first"
 msgstr "حدد شكلًا أولًا"
 
+msgid "select a shape or decorative text first"
+msgstr "حدد شكلًا أو نصًا مزخرفًا أولًا"
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "حدد شكلًا أو مربع نص أو لوحة رسم لتنسيق تعبئته."
 
@@ -6110,6 +6175,9 @@ msgstr "حدد مربع نص أولًا"
 
 msgid "select a text box linked to another first"
 msgstr "حدد مربع نص مرتبطًا بآخر أولًا"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "تحديد الخلية"
@@ -6267,6 +6335,9 @@ msgstr "تعيين تنسيق الفقرة"
 msgid "Set Proofing Language…"
 msgstr "تعيين لغة التدقيق…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "الإعداد:"
 
@@ -6275,6 +6346,9 @@ msgstr "التظليل"
 
 msgid "Shadow, glow and soft edges"
 msgstr "الظل والتوهج والحواف الناعمة"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "تعبئة الشكل"
@@ -6437,6 +6511,9 @@ msgstr "إظهار\nالتعليقات"
 
 msgid "Showing the first {count} items."
 msgstr "عرض أول {count} من العناصر."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "يعرض شجرة: كل عنصر تحت العنصر الذي ينتمي إليه."
@@ -6767,6 +6844,12 @@ msgstr "الولاية"
 
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
 
 msgid "Still there? I can hear you thinking."
 msgstr "ما زلت هنا؟ أكاد أسمعك تفكر."
@@ -7291,6 +7374,12 @@ msgstr "لا يمكن التراجع عن هذا. يبقى ملفك الأصلي
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "أُنشئ هذا المخطط في برنامج آخر: يعرضه WordCraft لكنه لا يستطيع تحريره"
 
+msgid "this diagram can't be edited"
+msgstr "لا يمكن تحرير هذا الرسم التخطيطي"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "أُنشئ هذا الرسم التخطيطي في برنامج آخر: يعرضه WordCraft لكنه لا يستطيع تحريره"
+
 msgid "This document"
 msgstr "هذا المستند"
 
@@ -7625,6 +7714,11 @@ msgstr "المملكة المتحدة"
 msgid "United States"
 msgstr "الولايات المتحدة"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "نمط النص المزخرف `{id}` غير معروف"
+
 msgid "Unlink Fields"
 msgstr "فك ارتباط الحقول"
 
@@ -7943,6 +8037,9 @@ msgstr "السنة"
 msgid "Yields"
 msgstr "ينتج"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "لم تحفظ منذ مدة، والحفظ التلقائي متوقف. أتحفظ الآن؟"
 
@@ -7999,6 +8096,9 @@ msgstr "المستلمون الذين سيُدمجون: {count} من {total}."
 
 msgid "{field}, record {n}"
 msgstr "{field}، السجل {n}"
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
+msgstr ""
 
 msgid "{group} settings"
 msgstr "إعدادات {group}"

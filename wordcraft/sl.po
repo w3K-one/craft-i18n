@@ -103,6 +103,11 @@ msgstr "<< Manj"
 msgid "<< Remove"
 msgstr "<< Odstrani"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "diagram lahko vsebuje največ {MAX_ITEMS} elementov"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "risalnega platna ni mogoče razdružiti"
 
@@ -126,6 +131,9 @@ msgstr "Oštevilčeno zaporedje (slike, tabele …)"
 
 msgid "A password is required to open this document."
 msgstr "Za odpiranje tega dokumenta je potrebno geslo."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "Kazalo vsebine"
@@ -516,6 +524,9 @@ msgstr "Vsak, ki odpre dokument, bo potreboval to geslo."
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Uporabi med tipkanjem"
@@ -1833,6 +1844,12 @@ msgstr "Decimalno"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Okrasni predmeti so zgolj vizualni dodatek: bralniki zaslona jih preskočijo."
 
+msgid "Decorative Text"
+msgstr "Okrasno besedilo"
+
+msgid "Decorative Text Styles"
+msgstr "Slogi okrasnega besedila"
+
 msgid "Decrease Indent"
 msgstr "Zmanjšaj zamik"
 
@@ -1956,6 +1973,15 @@ msgstr "razvojna različica"
 msgid "Diagonal Dots"
 msgstr "Diagonalne pike"
 
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Oblikovanje diagrama"
+
+msgid "Diagram Styles"
+msgstr "Slogi diagrama"
+
 msgid "Dictate"
 msgstr "Narekuj"
 
@@ -2006,6 +2032,9 @@ msgstr "Skupnost na Discordu"
 
 msgid "Display for Review"
 msgstr "Prikaz za pregled"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Prikazano besedilo"
@@ -2339,6 +2368,9 @@ msgstr "Kolenast povezovalnik"
 
 msgid "Emphasis"
 msgstr "Poudarjeno"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Prazne matrike"
@@ -2693,6 +2725,9 @@ msgstr "Pritrdi položaj na strani"
 
 msgid "Fixed Column Width"
 msgstr "Fiksna širina stolpca"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3214,6 +3249,9 @@ msgstr "Če…Potem…Sicer"
 msgid "If…Then…Else…"
 msgstr "Če…Potem…Sicer…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Prezri ločila"
 
@@ -3369,6 +3407,9 @@ msgstr "Vstavi stolpce desno"
 
 msgid "Insert Date Field"
 msgstr "Vstavi polje z datumom"
+
+msgid "Insert Diagram"
+msgstr "Vstavi diagram"
 
 msgid "Insert Endnote"
 msgstr "Vstavi končno opombo"
@@ -3550,6 +3591,9 @@ msgstr "Presek s spodnjo mejo"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Presek z mejama v indeksu"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Funkcija inverznega kosekansa"
 
@@ -3624,6 +3668,9 @@ msgstr "Videti je, da pišete pismo. Želite zanj ovojnico ali predlogo za pismo
 
 msgid "Italy"
 msgstr "Italija"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Njegovega slovarja ni bilo mogoče prebrati: {reason}"
@@ -3701,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4057,9 @@ msgstr "Povezave in sklici"
 msgid "Link…"
 msgstr "Povezava …"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Definicija seznama"
 
@@ -4252,6 +4305,9 @@ msgstr "Zrcalni robovi"
 
 msgid "Mirrored"
 msgstr "Zrcalno"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team in sodelavci projekta WordCraft."
@@ -4898,6 +4954,9 @@ msgstr "Odpri datoteko z WordCraftovim brskalnikom, kadar se sistemsko pogovorno
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "Besedilo OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Odpiranje pogovornega okna za tiskanje …"
@@ -6066,6 +6125,9 @@ msgstr "najprej izberite grafikon"
 msgid "select a connector first"
 msgstr "najprej izberite povezovalnik"
 
+msgid "select a diagram first"
+msgstr "najprej izberite diagram"
+
 msgid "select a drawing canvas first"
 msgstr "najprej izberite risalno platno"
 
@@ -6099,6 +6161,9 @@ msgstr ""
 msgid "select a shape first"
 msgstr "najprej izberite obliko"
 
+msgid "select a shape or decorative text first"
+msgstr "najprej izberite obliko ali okrasno besedilo"
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Select a shape, text box or drawing canvas to format its fill."
 
@@ -6110,6 +6175,9 @@ msgstr "najprej izberite besedilno polje"
 
 msgid "select a text box linked to another first"
 msgstr "najprej izberite besedilno polje, povezano z drugim"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "Izberi celico"
@@ -6267,6 +6335,9 @@ msgstr "Nastavi oblikovanje odstavka"
 msgid "Set Proofing Language…"
 msgstr "Nastavi jezik preverjanja…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Nastavitev:"
 
@@ -6275,6 +6346,9 @@ msgstr "Senčenje"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Senca, sij in mehki robovi"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Polnilo oblike"
@@ -6437,6 +6511,9 @@ msgstr "Prikaži\nkomentarje"
 
 msgid "Showing the first {count} items."
 msgstr "Prikazanih je prvih {count} elementov."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Prikaže drevo: vsak element pod elementom, ki mu pripada."
@@ -6767,6 +6844,12 @@ msgstr "Pokrajina"
 
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Statement   5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
 
 msgid "Still there? I can hear you thinking."
 msgstr "Ste še tam? Slišim vas razmišljati."
@@ -7291,6 +7374,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "ta grafikon je bil ustvarjen v drugem programu: WordCraft ga prikaže, vendar ga ne more urejati"
 
+msgid "this diagram can't be edited"
+msgstr "tega diagrama ni mogoče urejati"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "ta diagram je bil ustvarjen v drugem programu: WordCraft ga prikaže, vendar ga ne more urejati"
+
 msgid "This document"
 msgstr "Ta dokument"
 
@@ -7625,6 +7714,11 @@ msgstr "Združeno kraljestvo"
 msgid "United States"
 msgstr "Združene države Amerike"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "neznan slog okrasnega besedila `{id}`"
+
 msgid "Unlink Fields"
 msgstr "Prekini povezavo polj"
 
@@ -7943,6 +8037,9 @@ msgstr "Leto"
 msgid "Yields"
 msgstr "Daje"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Že nekaj časa niste shranili, samodejno shranjevanje pa je izklopljeno. Želite shraniti zdaj?"
 
@@ -7998,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Združenih bo {count} od {total} prejemnikov."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

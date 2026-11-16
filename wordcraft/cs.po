@@ -103,6 +103,11 @@ msgstr "<< Méně"
 msgid "<< Remove"
 msgstr "<< Odebrat"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "diagram obsahuje nejvýše {MAX_ITEMS} položek"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "kreslicí plátno nelze oddělit"
 
@@ -126,6 +131,9 @@ msgstr "Číslovaná posloupnost (obrázky, tabulky…)"
 
 msgid "A password is required to open this document."
 msgstr "K otevření tohoto dokumentu je vyžadováno heslo."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "Obsah"
@@ -516,6 +524,9 @@ msgstr "Toto heslo bude potřebovat každý, kdo dokument otevře."
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Používat při psaní"
@@ -1833,6 +1844,12 @@ msgstr "Desetinné"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Dekorativní objekty slouží pouze jako vizuální doplněk: čtečky obrazovky je přeskakují."
 
+msgid "Decorative Text"
+msgstr "Ozdobný text"
+
+msgid "Decorative Text Styles"
+msgstr "Styly ozdobného textu"
+
 msgid "Decrease Indent"
 msgstr "Zmenšit odsazení"
 
@@ -1956,6 +1973,15 @@ msgstr "vývojové sestavení"
 msgid "Diagonal Dots"
 msgstr "Diagonální tečky"
 
+msgid "Diagram"
+msgstr "Diagram"
+
+msgid "Diagram Design"
+msgstr "Návrh diagramu"
+
+msgid "Diagram Styles"
+msgstr "Styly diagramu"
+
 msgid "Dictate"
 msgstr "Diktovat"
 
@@ -2006,6 +2032,9 @@ msgstr "Komunita na Discordu"
 
 msgid "Display for Review"
 msgstr "Zobrazení k revizi"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Zobrazený text"
@@ -2339,6 +2368,9 @@ msgstr "Lomená spojnice"
 
 msgid "Emphasis"
 msgstr "Zdůraznění"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Prázdné matice"
@@ -2693,6 +2725,9 @@ msgstr "Ukotvit pozici na stránce"
 
 msgid "Fixed Column Width"
 msgstr "Pevná šířka sloupce"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3214,6 +3249,9 @@ msgstr "Pokud…Pak…Jinak"
 msgid "If…Then…Else…"
 msgstr "Pokud…Pak…Jinak…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Ignorovat interpunkční znaky"
 
@@ -3369,6 +3407,9 @@ msgstr "Vložit sloupce vpravo"
 
 msgid "Insert Date Field"
 msgstr "Vložit pole data"
+
+msgid "Insert Diagram"
+msgstr "Vložit diagram"
 
 msgid "Insert Endnote"
 msgstr "Vložit vysvětlivku"
@@ -3550,6 +3591,9 @@ msgstr "Průnik s dolní mezí"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Průnik s mezemi v dolním a horním indexu"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Arkuskosekans"
 
@@ -3624,6 +3668,9 @@ msgstr "Vypadá to, že píšete dopis. Chcete k němu obálku, nebo šablonu do
 
 msgid "Italy"
 msgstr "Itálie"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Jeho slovník se nepodařilo přečíst: {reason}"
@@ -3701,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4057,9 @@ msgstr "Odkazy a reference"
 msgid "Link…"
 msgstr "Odkaz…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Definice seznamu"
 
@@ -4252,6 +4305,9 @@ msgstr "Zrcadlové okraje"
 
 msgid "Mirrored"
 msgstr "Zrcadlové"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team a přispěvatelé projektu WordCraft."
@@ -4898,6 +4954,9 @@ msgstr "Otevřít soubor pomocí vlastního prohlížeče souborů WordCraftu, k
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "Text OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Otevírání dialogu tisku…"
@@ -6066,6 +6125,9 @@ msgstr "nejprve vyberte graf"
 msgid "select a connector first"
 msgstr "nejprve vyberte spojnici"
 
+msgid "select a diagram first"
+msgstr "nejprve vyberte diagram"
+
 msgid "select a drawing canvas first"
 msgstr "nejprve vyberte kreslicí plátno"
 
@@ -6099,6 +6161,9 @@ msgstr ""
 msgid "select a shape first"
 msgstr "nejprve vyberte tvar"
 
+msgid "select a shape or decorative text first"
+msgstr "nejprve vyberte obrazec nebo ozdobný text"
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Vyberte obrazec, textové pole nebo kreslicí plátno a naformátujte jeho výplň."
 
@@ -6110,6 +6175,9 @@ msgstr "nejprve vyberte textové pole"
 
 msgid "select a text box linked to another first"
 msgstr "nejprve vyberte textové pole propojené s jiným"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "Vybrat buňku"
@@ -6267,6 +6335,9 @@ msgstr "Nastavit formátování odstavce"
 msgid "Set Proofing Language…"
 msgstr "Nastavit jazyk kontroly pravopisu…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Nastavení:"
 
@@ -6275,6 +6346,9 @@ msgstr "Stínování"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Stín, záře a měkké okraje"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Výplň tvaru"
@@ -6437,6 +6511,9 @@ msgstr "Zobrazit\nkomentáře"
 
 msgid "Showing the first {count} items."
 msgstr "Zobrazuje se prvních {count} položek."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Zobrazí strom: každá položka je pod položkou, ke které patří."
@@ -6766,6 +6843,12 @@ msgid "State"
 msgstr "Stát/kraj"
 
 msgid "Statement   5.50\" × 8.50\""
+msgstr ""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
 msgstr ""
 
 msgid "Still there? I can hear you thinking."
@@ -7291,6 +7374,12 @@ msgstr "Tuto akci nelze vrátit zpět. Původní soubor zůstane beze změny."
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "tento graf byl vytvořen v jiném programu: WordCraft ho zobrazí, ale nemůže ho upravit"
 
+msgid "this diagram can't be edited"
+msgstr "tento diagram nelze upravovat"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "tento diagram byl vytvořen v jiném programu: WordCraft jej zobrazí, ale nemůže jej upravovat"
+
 msgid "This document"
 msgstr "Tento dokument"
 
@@ -7625,6 +7714,11 @@ msgstr "Spojené království"
 msgid "United States"
 msgstr "Spojené státy"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "neznámý styl ozdobného textu `{id}`"
+
 msgid "Unlink Fields"
 msgstr "Zrušit propojení polí"
 
@@ -7943,6 +8037,9 @@ msgstr "Rok"
 msgid "Yields"
 msgstr "Dává"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Dlouho jste neukládali a Automatické ukládání je vypnuté. Uložit teď?"
 
@@ -7998,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Příjemci ke sloučení: {count} z {total}."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"

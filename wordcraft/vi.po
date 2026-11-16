@@ -103,6 +103,11 @@ msgstr "<< Thu gọn"
 msgid "<< Remove"
 msgstr "<< Gỡ"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "a diagram holds at most {MAX_ITEMS} items"
+msgstr "một sơ đồ chứa tối đa {MAX_ITEMS} mục"
+
 msgid "a drawing canvas can't be ungrouped"
 msgstr "không thể bỏ nhóm khung vẽ"
 
@@ -126,6 +131,9 @@ msgstr "Một dãy đánh số thứ tự (hình, bảng…)"
 
 msgid "A password is required to open this document."
 msgstr "Phải có mật khẩu mới mở được tài liệu này."
+
+msgid "a shape inside a drawing canvas is placed by the canvas"
+msgstr ""
 
 msgid "A table of contents"
 msgstr "Một mục lục"
@@ -516,6 +524,9 @@ msgstr "Ai mở tài liệu này cũng cần dùng mật khẩu này."
 
 msgid "APA"
 msgstr "APA"
+
+msgid "Applies the next time WordCraft starts."
+msgstr ""
 
 msgid "Apply as you type"
 msgstr "Áp dụng khi nhập"
@@ -1833,6 +1844,12 @@ msgstr "Căn thập phân"
 msgid "Decorative objects only add visual interest: screen readers skip them."
 msgstr "Các đối tượng trang trí chỉ để tăng phần nhìn: trình đọc màn hình sẽ bỏ qua chúng."
 
+msgid "Decorative Text"
+msgstr "Chữ trang trí"
+
+msgid "Decorative Text Styles"
+msgstr "Kiểu chữ trang trí"
+
 msgid "Decrease Indent"
 msgstr "Giảm thụt lề"
 
@@ -1956,6 +1973,15 @@ msgstr "bản phát triển"
 msgid "Diagonal Dots"
 msgstr "Chấm chéo xuống"
 
+msgid "Diagram"
+msgstr "Sơ đồ"
+
+msgid "Diagram Design"
+msgstr "Thiết kế sơ đồ"
+
+msgid "Diagram Styles"
+msgstr "Kiểu sơ đồ"
+
 msgid "Dictate"
 msgstr "Soạn bằng giọng nói"
 
@@ -2006,6 +2032,9 @@ msgstr "Cộng đồng Discord"
 
 msgid "Display for Review"
 msgstr "Hiển thị để xem lại"
+
+msgid "Display server:"
+msgstr ""
 
 msgid "Display text"
 msgstr "Văn bản hiển thị"
@@ -2339,6 +2368,9 @@ msgstr "Đường nối gấp khúc"
 
 msgid "Emphasis"
 msgstr "Nhấn mạnh"
+
+msgid "Emphasis Mark"
+msgstr ""
 
 msgid "Empty Matrices"
 msgstr "Ma trận trống"
@@ -2693,6 +2725,9 @@ msgstr "Cố định vị trí trên trang"
 
 msgid "Fixed Column Width"
 msgstr "Cố định độ rộng cột"
+
+msgid "Flat OpenDocument Text (*.fodt)"
+msgstr ""
 
 msgid "Float"
 msgstr ""
@@ -3214,6 +3249,9 @@ msgstr "Nếu…Thì…Không thì"
 msgid "If…Then…Else…"
 msgstr "Nếu…Thì…Không thì…"
 
+msgid "Ignore Once"
+msgstr ""
+
 msgid "Ignore punctuation characters"
 msgstr "Bỏ qua dấu câu"
 
@@ -3369,6 +3407,9 @@ msgstr "Chèn cột sang phải"
 
 msgid "Insert Date Field"
 msgstr "Chèn trường ngày"
+
+msgid "Insert Diagram"
+msgstr "Chèn sơ đồ"
 
 msgid "Insert Endnote"
 msgstr "Chèn chú thích cuối tài liệu"
@@ -3550,6 +3591,9 @@ msgstr "Phép giao có cận dưới"
 msgid "Intersection with Subscript-Superscript Limits"
 msgstr "Phép giao có cận chỉ số dưới-trên"
 
+msgid "Inverse"
+msgstr ""
+
 msgid "Inverse Cosecant Function"
 msgstr "Hàm côséc ngược"
 
@@ -3624,6 +3668,9 @@ msgstr "Có vẻ bạn đang viết thư. Bạn muốn một phong bì cho nó, 
 
 msgid "Italy"
 msgstr "Ý"
+
+msgid "Item Color"
+msgstr ""
 
 msgid "Its dictionary couldn't be read: {reason}"
 msgstr "Không đọc được từ điển của ngôn ngữ này: {reason}"
@@ -3701,6 +3748,9 @@ msgid "Language data"
 msgstr ""
 
 msgid "Language Packs"
+msgstr ""
+
+msgid "Language packs aren't available in the browser"
 msgstr ""
 
 msgid "Language packs aren't available in the browser."
@@ -4007,6 +4057,9 @@ msgstr "Liên kết và tham chiếu"
 msgid "Link…"
 msgstr "Liên kết…"
 
+msgid "Linux display server"
+msgstr ""
+
 msgid "List Definition"
 msgstr "Định nghĩa danh sách"
 
@@ -4252,6 +4305,9 @@ msgstr "Lề đối xứng"
 
 msgid "Mirrored"
 msgstr "Phản chiếu"
+
+msgid "Missing Fonts"
+msgstr ""
 
 msgid "MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors."
 msgstr "MIT OR Apache-2.0. Bản quyền (c) 2026 ArtCraft Team và các cộng tác viên WordCraft."
@@ -4898,6 +4954,9 @@ msgstr "Mở tệp bằng trình duyệt tệp của WordCraft khi hộp thoại
 
 msgid "OpenDocument Text (*.odt)"
 msgstr "Tệp văn bản OpenDocument (*.odt)"
+
+msgid "OpenDocument Text Template (*.ott)"
+msgstr ""
 
 msgid "Opening print dialog…"
 msgstr "Đang mở hộp thoại in…"
@@ -6066,6 +6125,9 @@ msgstr "hãy chọn một biểu đồ trước"
 msgid "select a connector first"
 msgstr "hãy chọn một đường nối trước"
 
+msgid "select a diagram first"
+msgstr "hãy chọn một sơ đồ trước"
+
 msgid "select a drawing canvas first"
 msgstr "hãy chọn một khung vẽ trước"
 
@@ -6099,6 +6161,9 @@ msgstr ""
 msgid "select a shape first"
 msgstr "hãy chọn một hình trước"
 
+msgid "select a shape or decorative text first"
+msgstr "hãy chọn một hình hoặc chữ trang trí trước"
+
 msgid "Select a shape, text box or drawing canvas to format its fill."
 msgstr "Chọn một hình, hộp văn bản hoặc khung vẽ để định dạng phần tô."
 
@@ -6110,6 +6175,9 @@ msgstr "hãy chọn một hộp văn bản trước"
 
 msgid "select a text box linked to another first"
 msgstr "hãy chọn một hộp văn bản đã liên kết với hộp khác trước"
+
+msgid "Select Canvas Member"
+msgstr ""
 
 msgid "Select Cell"
 msgstr "Chọn ô"
@@ -6267,6 +6335,9 @@ msgstr "Đặt định dạng đoạn"
 msgid "Set Proofing Language…"
 msgstr "Đặt ngôn ngữ soát lỗi…"
 
+msgid "Set the colors in the Text Pane to use custom colors."
+msgstr ""
+
 msgid "Setting:"
 msgstr "Thiết lập:"
 
@@ -6275,6 +6346,9 @@ msgstr "Tô nền"
 
 msgid "Shadow, glow and soft edges"
 msgstr "Bóng đổ, phát sáng và cạnh mềm"
+
+msgid "Shape color"
+msgstr ""
 
 msgid "Shape Fill"
 msgstr "Tô nền hình"
@@ -6437,6 +6511,9 @@ msgstr "Hiện\nnhận xét"
 
 msgid "Showing the first {count} items."
 msgstr "Đang hiển thị {count} mục đầu tiên."
+
+msgid "Shown in substitute fonts. Click for details."
+msgstr ""
 
 msgid "Shows a tree: each item below the item it belongs to."
 msgstr "Hiển thị dạng cây: mỗi mục nằm dưới mục mà nó thuộc về."
@@ -6767,6 +6844,12 @@ msgstr "Tiểu bang"
 
 msgid "Statement   5.50\" × 8.50\""
 msgstr "Giấy Statement 5.50\" × 8.50\""
+
+msgid "Status bar"
+msgstr ""
+
+msgid "Status bar count:"
+msgstr ""
 
 msgid "Still there? I can hear you thinking."
 msgstr "Còn đó không? Tôi nghe thấy bạn đang suy nghĩ đấy."
@@ -7291,6 +7374,12 @@ msgstr ""
 msgid "this chart was made in another program: WordCraft shows it but can't edit it"
 msgstr "biểu đồ này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được"
 
+msgid "this diagram can't be edited"
+msgstr "không thể chỉnh sửa sơ đồ này"
+
+msgid "this diagram was made in another program: WordCraft shows it but can't edit it"
+msgstr "sơ đồ này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không thể chỉnh sửa"
+
 msgid "This document"
 msgstr "Tài liệu này"
 
@@ -7625,6 +7714,11 @@ msgstr "Vương quốc Anh"
 msgid "United States"
 msgstr "Hoa Kỳ"
 
+#. {name} placeholders are filled in when the app runs: keep each one, in any order.
+msgctxt "@msg"
+msgid "unknown decorative text style `{id}`"
+msgstr "kiểu chữ trang trí không xác định `{id}`"
+
 msgid "Unlink Fields"
 msgstr "Gỡ liên kết trường"
 
@@ -7943,6 +8037,9 @@ msgstr "Năm"
 msgid "Yields"
 msgstr "Suy ra"
 
+msgid "You can also right-click the count in the status bar to change it."
+msgstr ""
+
 msgid "You haven't saved in a while, and AutoSave is off. Save now?"
 msgstr "Đã lâu bạn chưa lưu, và Tự động lưu đang tắt. Lưu ngay nhé?"
 
@@ -7998,6 +8095,9 @@ msgid "{count} of {total} recipients will be merged."
 msgstr "Sẽ phối {count} trên {total} người nhận."
 
 msgid "{field}, record {n}"
+msgstr ""
+
+msgid "{font} isn't installed on this computer, so its text is shown in {shown}. Line breaks and page count can differ from where the document was made. If you have the font file, add it with Add Font… at the end of this list."
 msgstr ""
 
 msgid "{group} settings"
